@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhruv Patel
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning MERN stack development with all possible passion.
+- 🌱 I’m currently learning MERN stack development with all possible passion 😊.
 - 📫 You can connect or contact with me here : www.linkedin.com/in/dhruv-full-stack-dev
 
 <!---
