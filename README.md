@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhruv Patel
-- 👀 I’m interested in web development, data analysis and any fascinating computer science technolog😀😇 but now exploring web development. 
+- 👀 I’m interested in web development, data analysis and some more fascinating computer science technolog😀😇 but now only exploring web development. 
 - 🌱 I’m currently learning MERN stack development with all possible passion 😊. Also Want to explore my other interests.
 - 📫 You can connect or contact with me here : www.linkedin.com/in/dhruv-full-stack-dev
 
